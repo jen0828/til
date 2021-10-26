@@ -11,4 +11,4 @@ Contents:
 
 ***
 
-* [reference](https://github.com/thoughtbot/til)
+credit :https://github.com/thoughtbot/til
